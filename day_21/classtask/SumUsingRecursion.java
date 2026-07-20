@@ -11,7 +11,7 @@ public class SumUsingRecursion {
 
             if(num == 5){
                 return ;
-                
+
             }
             sum = sum +num;
             num++;
